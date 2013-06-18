@@ -1,36 +1,19 @@
 ---
 layout: page
-title: Welcome to Phil Williammee's Blog!
-tagline: Supporting tagline
+title: Phil's Intro <br>
+tagline: Welcome to my electronics blog!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
+## Raspberry pi
+This site was made and is maintaned using a RaspberryPi and the Raspbian OS
     
-    title : My Blog =)
+    This site uses `ruby gems`, `jeykyll`, `html` and is hosted by github.
+    I don't know anything about ruby or html, but I'm learning:
     
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+All of the code for this site is at my [github repository](http://github.com/philwilliammee/philwilliammee.github.com)
     
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## My Posts
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +21,15 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+This blog contains my post pages and blog data, it also contains jeykll samples.
+
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+Hi my site is still heavily under construction as I try and figure out how I want it set up.
+I have borrowed from [jekyll bootsrap](http://github.com/plusjade/jekyll-bootstrap) to help me get started so you will see a lot of refernces to jekyll.
+
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 
