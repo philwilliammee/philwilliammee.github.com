@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome to Phil Williammee's Blog!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
