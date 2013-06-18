@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Phil's Intro <br>
-tagline: Welcome to my electronics blog!
+title: Phil's blog
+tagline: <br>Welcome to my electronics blog!
 ---
 {% include JB/setup %}
 
 ## Raspberry pi
 This site was made and is maintaned using a RaspberryPi and the Raspbian OS
     
-    This site uses `ruby gems`, `jeykyll`, `html` and is hosted by github.
+    This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
     I don't know anything about ruby or html, but I'm learning:
     
 All of the code for this site is at my [github repository](http://github.com/philwilliammee/philwilliammee.github.com)
