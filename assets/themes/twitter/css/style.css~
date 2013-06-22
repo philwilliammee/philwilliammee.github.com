@@ -1,40 +1,48 @@
 html, body{/* set body color pw*/
-background: grey;}
+background: navy;}
 
 a:hover{
-   color:#0f0;}
-
-a:visited{
-  color:#760BA8;
+   color:#0f0;
 }
-
+a:visited{
+  color:#5f0887;
+}
 a:link{
-  color:#00f;}
-
+  color:#00f;
+}
 a:active{
   color:black;
 }
 
 /* Custom container */
 .container-narrow {<!-- main panel comment-->
-  margin: 0 auto;
+  /*padding: 10px 20px 20px 20px;*/
+  -webkit-border-radius: 0 0 6px 6px;
+  margin: 2cm;
   background: grey;
   color: #ececec;
-  max-width: 960px; }
+  max-width: 1120px;
+  margin-left: auto;
+  margin-right: auto;}
 
 .container-narrow > hr { 
   margin: 30px 0; }
 
+.navbar{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 <!-- navbar container holding header tags-->
 .navbar-inner {
-  background-color: white; /* background color will be  */
+  background-color: silver;
   background-image: none;
   background-repeat: no-repeat;
   filter: none;
 }
-
 .navbar .nav {
-  float: right; }
+  float: right; 
+}
 
 /* posts index */
 .post > h3.title {
