@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Phil's blog
-tagline: <br>Electronics, and the pusuit of happiness.
+title: Control Algorithms
+tagline: <br>Interfacing with the world.
 --- 
 <!-- edit styles -->
 <!--

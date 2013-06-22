@@ -14,10 +14,10 @@ tagline: <br>Electronics, and the pusuit of happiness.
 </section>
 {% include JB/setup %}
 ## Raspberry pi
+This site was made and is maintaned using a RaspberryPi and the Raspbian OS
 <section role="raspberry_pi">
   <img src="/img/raspberry_pi.JPG" />
 </section>
-This site was made and is maintaned using a RaspberryPi and the Raspbian OS
     
     This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
     What do I know about html? Not much but I'm learnin.
