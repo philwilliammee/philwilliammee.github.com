@@ -13,8 +13,10 @@ tagline: <br>Electronics, and the pusuit of happiness.
   <img src="/img/banner.jpg" />
 </section>
 {% include JB/setup %}
-
 ## Raspberry pi
+<section role="raspberry_pi">
+  <img src="/img/raspberry_pi.JPG" />
+</section>
 This site was made and is maintaned using a RaspberryPi and the Raspbian OS
     
     This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
