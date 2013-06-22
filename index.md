@@ -16,8 +16,6 @@ tagline: <br>Interfacing with the world.
 {% include JB/setup %}
 
     
-All of the code for this site is at my [github repository](http://github.com/philwilliammee/philwilliammee.github.com)
-    
 ## My Posts
 
 <ul class="posts">
@@ -32,18 +30,26 @@ This blog contains my post pages and blog data, it also contains jeykll samples.
   <font size="6"><b>RaspberryPi</b> </font>
   <img src="/img/raspberry_pi.JPG" style="position: relative; top: 0px; left: -10px;" />
 </section>
-This site was made by a RaspberryPi and the Raspbian OS
+This site was made with a RaspberryPi and the Raspbian OS
     
-    This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
-    What do I know about html? Not much but I'm learnin.
+This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
+On your raspberryPi you will have to get ruby and jekyll
+    
+    sudo apt-get install ruby1.9.1-full
+    gem install jekyll.
+
+mkdir your github folder in your home directory and not your root directory. I did it in root and had key issues.
+
+<div id="wrapper" style="width:100%; text-align:center">
+<img src="/img/palm_pi.JPG" />
+</div>
+check out my raspberrypi [project log](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=41&t=34300) at the raspberry pi forums. 
 
 ## To-Do
+This site is still under construction, as I try and figure out how I want it set up.
 
-Hi my site is still heavily under construction as I try and figure out how I want it set up.
-I have borrowed from [jekyll bootsrap](http://github.com/plusjade/jekyll-bootstrap) to help me get started so you will see a lot of refernces to jekyll.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
+All of the code for this site is at my [github repository](http://github.com/philwilliammee/philwilliammee.github.com)<br>
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 
