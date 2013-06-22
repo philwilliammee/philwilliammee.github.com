@@ -12,15 +12,9 @@ tagline: <br>Interfacing with the world.
 <section role="banner">
   <img src="/img/banner.jpg" />
 </section>
+
 {% include JB/setup %}
-## Raspberry pi
-This site was made and is maintaned using a RaspberryPi and the Raspbian OS
-<section role="raspberry_pi">
-  <img src="/img/raspberry_pi.JPG" />
-</section>
-    
-    This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
-    What do I know about html? Not much but I'm learnin.
+
     
 All of the code for this site is at my [github repository](http://github.com/philwilliammee/philwilliammee.github.com)
     
@@ -33,6 +27,15 @@ All of the code for this site is at my [github repository](http://github.com/phi
 </ul>
 
 This blog contains my post pages and blog data, it also contains jeykll samples.
+
+<section role="raspberry_pi">
+  <font size="6"><b>RaspberryPi</b> </font>
+  <img src="/img/raspberry_pi.JPG" style="position: relative; top: 0px; left: -10px;" />
+</section>
+This site was made by a RaspberryPi and the Raspbian OS
+    
+    This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
+    What do I know about html? Not much but I'm learnin.
 
 ## To-Do
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Phil's blog
-tagline: <br>Electronics, and the pusuit of happiness.
+title: Control Algorithms
+tagline: <br>Interfacing with the world.
 --- 
 <!-- edit styles -->
 <!--
@@ -12,12 +12,13 @@ tagline: <br>Electronics, and the pusuit of happiness.
 <section role="banner">
   <img src="/img/banner.jpg" />
 </section>
+
 {% include JB/setup %}
-## Raspberry pi
-This site was made and is maintaned using a RaspberryPi and the Raspbian OS
 <section role="raspberry_pi">
-  <img src="/img/raspberry_pi.JPG" />
+  <font size="6"><b>RaspberryPi</b> </font>
+  <img src="/img/raspberry_pi.JPG" style="position: relative; top: 0px; left: -10px;" />
 </section>
+This site was made and is maintaned using a RaspberryPi and the Raspbian OS
     
     This site uses `ruby gems`, `jekyll`, `html` and is hosted by github.
     What do I know about html? Not much but I'm learnin.
