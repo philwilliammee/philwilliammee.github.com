@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Phil's Blog
-tagline: Electronics
+title : Phils Blog
+tagline: Stuff I do
 author :
   name : Phil Williammee
   email : phil.williammee@gmial.com

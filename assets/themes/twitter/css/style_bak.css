@@ -1,37 +1,10 @@
-html, body{/* set body color pw*/
-background: grey;}
-
-a:hover{
-   color:#0f0;}
-
-a:visited{
-  color:#5f0887;
-}
-
-a:link{
-  color:#00f;}
-
-a:active{
-  color:black;
-}
-
 /* Custom container */
-.container-narrow {<!-- main panel comment-->
+.container-narrow {
   margin: 0 auto;
-  background: grey;
-  color: #ececec;
-  max-width: 960px; }
+  max-width: 700px; }
 
-.container-narrow > hr { 
+.container-narrow > hr {
   margin: 30px 0; }
-
-<!-- navbar container holding header tags-->
-.navbar-inner {
-  background-color: white; /* background color will be  */
-  background-image: none;
-  background-repeat: no-repeat;
-  filter: none;
-}
 
 .navbar .nav {
   float: right; }
@@ -90,6 +63,3 @@ a:active{
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
-
-
-
