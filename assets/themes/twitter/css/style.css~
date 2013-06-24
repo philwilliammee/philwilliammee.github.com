@@ -1,5 +1,5 @@
 html, body{/* set body color pw*/
-background: navy;}
+background: gray;}
 
 a:hover{
    color:#0f0;
@@ -14,10 +14,14 @@ a:active{
   color:black;
 }
 
+/* paragraph settings */
+.tab{
+   text-indent:40px;
+}
+
 /* Custom container */
 .container-narrow {<!-- main panel comment-->
   /*padding: 10px 20px 20px 20px;*/
-  -webkit-border-radius: 0 0 6px 6px;
   margin: 2cm;
   background: grey;
   color: #ececec;
