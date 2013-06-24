@@ -16,7 +16,7 @@ Phil
 {% include JB/setup %}
 <br>
 ## Hardware
-<section role="hardware">
+<section id="wrapper" style="width:100%; text-align:center">
   <img src="/img/hardware.JPG" />
 </section>
 

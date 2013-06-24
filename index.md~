@@ -10,7 +10,7 @@ tagline: <br>Interfacing with the world....Hello World
   {% endfor %}
 </ul>
 <br>
-My blog posts will cover electronic hardware software pratical application and theory. Thanks for stopping by feel free to comment on anything.
+My blog posts cover electronic hardware software pratical application and theory. Thanks for stopping by feel free to comment on anything.
 Phil 
 <br>
 {% include JB/setup %}
